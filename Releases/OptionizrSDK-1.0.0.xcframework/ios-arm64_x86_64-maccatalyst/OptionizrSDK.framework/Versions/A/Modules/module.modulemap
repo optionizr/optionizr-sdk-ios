@@ -1,0 +1,11 @@
+framework module OptionizrSDK {
+  umbrella header "OptionizrSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module OptionizrSDK.Swift {
+    header "OptionizrSDK-Swift.h"
+    requires objc
+}

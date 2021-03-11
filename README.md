@@ -1,1 +1,3 @@
-# optionzr-sdk-ios
+# OptionizrSDK
+
+A description of this package.
