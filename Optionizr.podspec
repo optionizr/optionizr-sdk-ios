@@ -14,6 +14,4 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   
   s.ios.vendored_frameworks = 'OptionizrSDK.xcframework'
-  s.framework           = 'UIKit', 'WebKit'
-  s.preserve_paths = ''
 end
