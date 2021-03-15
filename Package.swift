@@ -14,6 +14,6 @@ let package = Package(
     dependencies: [
     ],
     targets: [
-        .binaryTarget(name: "OptionizrSDK", path: "Releases/OptionizrSDK-1.0.0.xcframework")
+        .binaryTarget(name: "OptionizrSDK", path: "OptionizrSDK.xcframework")
     ]
 )
