@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "Optionizr"
-  s.version          = "0.9.0a"
+  s.version          = "0.9.0b"
   s.summary          = "Optionizr payment library for mobile iOS apps."
   s.homepage         = "https://www.optionizr.com"
   

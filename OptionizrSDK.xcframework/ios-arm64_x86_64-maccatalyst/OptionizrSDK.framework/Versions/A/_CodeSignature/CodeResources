@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		z5SnP5HunegRT3bURX/FEQrSs/A=
+		kjHVPg2/9pGPuzM6eZDrV6xaNEI=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -22,91 +22,91 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			thv6D+i4dONPbbM+Jmh+lQFu53frag4c1CGvjN48XEA=
+			tsNxmDjjygBR95XvZsUKRr4BDmk3Zg0oAr9I0ZvGKWI=
 			</data>
 		</dict>
 		<key>Modules/OptionizrSDK.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LAvG0+eMFUqj2LBQFKBw/oXE17gbnaokpDfS0+KcESc=
+			RdNr5MiqAeArJv/wHAcmT06ElZajIxidopCHLe6j6SI=
 			</data>
 		</dict>
 		<key>Modules/OptionizrSDK.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FLYjmOkTlCtFO5Gsn5p2sR8DByW97tPD17KdFhf0LGg=
+			EjofPzlhzlKpc52rPDNQ7snS5vssr7XAKUl5gFEP1XU=
 			</data>
 		</dict>
 		<key>Modules/OptionizrSDK.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MFLXB6G4uJJhMVDEVPk+4nFMEo/GlqhaT+YOGaopWRI=
+			SQexvFl4iB+nN9WJHf1njvkJ7P4B+Uh8hf4Hwy9rAG8=
 			</data>
 		</dict>
 		<key>Modules/OptionizrSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LAvG0+eMFUqj2LBQFKBw/oXE17gbnaokpDfS0+KcESc=
+			RdNr5MiqAeArJv/wHAcmT06ElZajIxidopCHLe6j6SI=
 			</data>
 		</dict>
 		<key>Modules/OptionizrSDK.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FLYjmOkTlCtFO5Gsn5p2sR8DByW97tPD17KdFhf0LGg=
+			EjofPzlhzlKpc52rPDNQ7snS5vssr7XAKUl5gFEP1XU=
 			</data>
 		</dict>
 		<key>Modules/OptionizrSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MFLXB6G4uJJhMVDEVPk+4nFMEo/GlqhaT+YOGaopWRI=
+			SQexvFl4iB+nN9WJHf1njvkJ7P4B+Uh8hf4Hwy9rAG8=
 			</data>
 		</dict>
 		<key>Modules/OptionizrSDK.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wkKiBwnblGnbGiQVAjRymgAfV2fcVn6EXCUeWzRbaZc=
+			U1tCLtD++pJoRpOKAxI+VlS04+nLMAL12mUR5WIsIKw=
 			</data>
 		</dict>
 		<key>Modules/OptionizrSDK.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tHoVGn6i64wtfCYTDLTs12rXWIM6n21E3Q/un+Y/Juk=
+			WQC/ULnZzeNDYc97FqGu/oyJOOl3xDUuCWJy8OJ6t1c=
 			</data>
 		</dict>
 		<key>Modules/OptionizrSDK.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			r+sdQuQCjgBrkCFjizfgcPvlQeOySKPZ7KPx1t4K14E=
+			KxTamLoyBZ6+XD5q/W3y0DvkfBvUuoiSNndZj6DjrtM=
 			</data>
 		</dict>
 		<key>Modules/OptionizrSDK.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wkKiBwnblGnbGiQVAjRymgAfV2fcVn6EXCUeWzRbaZc=
+			U1tCLtD++pJoRpOKAxI+VlS04+nLMAL12mUR5WIsIKw=
 			</data>
 		</dict>
 		<key>Modules/OptionizrSDK.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tHoVGn6i64wtfCYTDLTs12rXWIM6n21E3Q/un+Y/Juk=
+			WQC/ULnZzeNDYc97FqGu/oyJOOl3xDUuCWJy8OJ6t1c=
 			</data>
 		</dict>
 		<key>Modules/OptionizrSDK.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			r+sdQuQCjgBrkCFjizfgcPvlQeOySKPZ7KPx1t4K14E=
+			KxTamLoyBZ6+XD5q/W3y0DvkfBvUuoiSNndZj6DjrtM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -120,7 +120,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7Megwk5StzW7f09L6bFQG6cgYIFe0LC4ae2bjC2V8Lw=
+			NCf8NUwFUpBraI/4yRMtsGgx0iJtUGXXoTUG4H9v0Yg=
 			</data>
 		</dict>
 	</dict>
