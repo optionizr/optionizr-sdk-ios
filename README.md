@@ -4,7 +4,7 @@ OptionizrSDK
 pod 'Optionizr', '~> 1.0'
 
 # Installation Swift Package Manager
-Xcode > File > Swift Package > Add Package Dependency > https://github.com/yannisroy/optionizr-sdk-ios
+Xcode > File > Swift Package > Add Package Dependency > https://github.com/optionizr/optionizr-sdk-ios
 
 # Manual xcframework Installation
 1. Download OptionzrSDK.xcframework
