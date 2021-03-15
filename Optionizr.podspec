@@ -1,10 +1,10 @@
 Pod::Spec.new do |s|
   s.name             = "Optionizr"
-  s.version          = "1.0.0"
+  s.version          = "0.9.0a"
   s.summary          = "Optionizr payment library for mobile iOS apps."
   s.homepage         = "https://www.optionizr.com"
   
-  s.license          = 'UNLICENSED'
+  s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { "Dimitri Dupuis-Latour" => "dupuislatour@me.com" }
 
   s.cocoapods_version = '>= 1.10.0' # Because Important fixes for xcframeworks support came in CocoaPods 1.10.0
@@ -15,4 +15,5 @@ Pod::Spec.new do |s|
   
   s.ios.vendored_frameworks = 'OptionizrSDK.xcframework'
   s.framework           = 'UIKit', 'WebKit'
+  s.preserve_paths = ''
 end
